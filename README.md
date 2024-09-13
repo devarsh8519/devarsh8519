@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devarsh Doshi</h1>
 <h3 align="center">A passionate innovator</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.google.com/search?sca_esv=6b3f560ec1a240ad&sca_upv=1&rlz=1C1CHBF_enIN925IN925&sxsrf=ADLYWIILQfdv4fFiFXPsfzKdcOo6nHODMg:1726208881217&q=coding+gif&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOYMMWTNCTu57lKPsZpPcfqPInr9nYx0o93U7Rc7eYLjY8rHfXDyJvzANAPW-eY7dQEKdjcd3IWT54WmvsgeSoNBUWKLTIlAo8Fppf2Mq6OemXZwWasDWYJol8vOMv8uuvqbztY2&sa=X&ved=2ahUKEwiK9LCZpb-IAxVD4jgGHVZkLgUQtKgLegQIFhAB&biw=1536&bih=730&dpr=1.25#vhid=zhjSEq0Xd_DH7M&vssid=mosaic)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarsh8519&label=Profile%20views&color=0e75b6&style=flat" alt="devarsh8519" /> </p>
 
