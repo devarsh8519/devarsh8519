@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarsh8519&label=Profile%20views&color=0e75b6&style=flat" alt="devarsh8519" /> </p>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **C,C++,Python,HTML,CSS**
+- 💬 Ask me about **C,C++,Python,HTML,CSS,JavaScript,JQuery,ReactJs,Redux**
 
 - 📫 How to reach me **devarshdoshi08@gmail.com**
 
